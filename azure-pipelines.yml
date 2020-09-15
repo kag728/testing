@@ -12,7 +12,6 @@ pr:
     - releases/*
     exclude:
     - releases/old*
-  drafts: true
   
 pool:
   vmImage: 'ubuntu-latest'
